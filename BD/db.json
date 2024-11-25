@@ -119,17 +119,6 @@
         "Psamathe"
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg"
-    },
-    {
-      "id": "a550",
-      "name": "Prueba",
-      "description": "Prueba",
-      "moons": 2,
-      "moon_names": [
-        "Pepe",
-        "pepa"
-      ],
-      "image": ""
     }
   ]
 }
